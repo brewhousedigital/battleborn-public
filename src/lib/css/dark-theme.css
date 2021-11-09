@@ -1,0 +1,56 @@
+.dark-theme main {
+    background: #181818;
+    color: #eee;
+}
+
+.dark-theme .paper-border {
+    color: #eee!important;
+}
+
+.dark-theme .paper-border:hover,
+.dark-theme .paper-border:focus {
+    background-color: #0A0A0A!important;
+}
+
+.dark-theme .alert-warning {
+    color: #fff3cd;
+    background-color: #664d03;
+    border-color: #664d03;
+}
+
+.dark-theme .card {
+    background-color: #0A0A0A;
+}
+
+.dark-theme .list-group-item {
+    color: #eee;
+}
+
+.dark-theme .btn {
+    color: #eee;
+}
+
+.dark-theme .dice-roller-icon svg {
+    fill: #eee;
+}
+
+.dark-theme .form-control,
+.dark-theme .form-select {
+    background-color: #0A0A0A;
+    color: #eee;
+    border-color: #434343;
+}
+
+.dark-theme .character-textarea-btn-save {
+    background-color: #0A0A0A;
+}
+
+.dark-theme .btn-light {
+    color: #fff;
+    background-color: #212529;
+    border-color: #212529;
+}
+
+.dark-theme .modal-content {
+    background-color: #212121;
+}

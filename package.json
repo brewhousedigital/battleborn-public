@@ -1,0 +1,35 @@
+{
+  "name": "battleborn",
+  "version": "11.0.0",
+  "description": "An easy to use Tabletop RPG game for both beginners and advanced players",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brewhousedigital/battleborn-svelte.git"
+  },
+  "author": {
+    "name": "Zach Voss",
+    "email": "zach@voss.com",
+    "url": "https://zachvoss.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brewhousedigital/battleborn-svelte/issues"
+  },
+  "homepage": "https://github.com/brewhousedigital/battleborn-svelte",
+  "scripts": {
+    "start": "svelte-kit dev",
+    "dev": "svelte-kit dev",
+    "build": "svelte-kit build",
+    "preview": "svelte-kit preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-netlify": "^1.0.0-next.31",
+    "@sveltejs/kit": "next",
+    "svelte": "^3.42.1"
+  },
+  "type": "module",
+  "dependencies": {
+    "backendless": "^6.2.21",
+    "dotenv": "^10.0.0"
+  }
+}

@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+/.svelte-kit
+/package
+.idea
+build
+/functions
+package-lock.json
+
+# Dont push env to github
+.env
+# Local Netlify folder
+.netlify
